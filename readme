@@ -1,0 +1,12 @@
+# node (nodejs.org)
+# msyql(workbench, xampp)
+# editor (Vscode, atom, notepad++, sublime)
+# command line (git)
+# npm 
+
+// packages to install
+# express
+# mysql2
+# sequelize 
+# nodemon 
+# dotenv
