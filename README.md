@@ -8,6 +8,6 @@
 
 # 3. git add .
 
-# 4. git commit -m "<name>"
+# 4. git commit -m "message"
 
-# 5. git push origin <main or master>
+# 5. git push origin <name of the branch>
